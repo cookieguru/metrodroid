@@ -103,7 +103,7 @@
                     android:layout_gravity="center"
                     android:paddingStart="0dp"
                     android:paddingEnd="5dip"
-                    app:srcCompat="@drawable/material_ic_error_24dp"
+                    app:srcCompat="@drawable/unknown"
                     android:contentDescription="@string/rejected"
                     android:paddingLeft="0dp"
                     android:paddingRight="5dip" />
@@ -115,7 +115,7 @@
                     android:layout_gravity="center"
                     android:paddingStart="0dp"
                     android:paddingEnd="5dip"
-                    app:srcCompat="@drawable/material_ic_transfer_within_a_station_24dp"
+                    app:srcCompat="@drawable/unknown"
                     android:contentDescription="@string/transfer"
                     android:paddingLeft="0dp"
                     android:paddingRight="5dip" />
@@ -159,7 +159,7 @@
                     android:layout_gravity="center"
                     android:paddingStart="5dip"
                     android:paddingEnd="0dp"
-                    tools:src="@drawable/material_ic_group_24dp"
+                    tools:src="@drawable/unknown"
                     android:paddingLeft="5dip"
                     android:paddingRight="0dp" />
             </LinearLayout>

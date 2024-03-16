@@ -29,13 +29,13 @@
 
     <item android:id="@+id/export_key"
         android:title="@string/export"
-        android:icon="@drawable/material_ic_save_24dp"
+        android:icon="@drawable/unknown"
         android:showAsAction="ifRoom"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/delete_key"
         android:title="@string/delete"
-        android:icon="@drawable/material_ic_delete_24dp"
+        android:icon="@drawable/unknown"
         android:showAsAction="ifRoom"
         app:showAsAction="ifRoom" />
 </menu>

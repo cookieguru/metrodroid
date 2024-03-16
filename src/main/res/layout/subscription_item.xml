@@ -85,7 +85,7 @@
                 android:paddingLeft="5dip"
                 android:paddingRight="0dp"
                 android:paddingStart="5dip"
-                tools:src="@drawable/material_ic_group_24dp" />
+                tools:src="@drawable/unknown" />
         </LinearLayout>
 
         <androidx.appcompat.widget.AppCompatTextView
