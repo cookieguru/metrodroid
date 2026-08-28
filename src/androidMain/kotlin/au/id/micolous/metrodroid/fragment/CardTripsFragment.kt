@@ -212,8 +212,8 @@ class CardTripsFragment : ListFragment() {
                 paxTextView.text = String.format(Locale.getDefault(), "%d", pax)
                 paxIcon.contentDescription = Localizer.localizePlural(R.plurals.passengers, pax)
 
-                paxIcon.setImageDrawable(AppCompatResources.getDrawable(context,
-                        if (pax == 1) com.google.material_design_icons.R.drawable.material_ic_person_24dp else com.google.material_design_icons.R.drawable.material_ic_group_24dp))
+			paxIcon.setImageDrawable(AppCompatResources.getDrawable(context,
+			        if (pax == 1) android.R.drawable.ic_menu_view else android.R.drawable.ic_menu_view))
 
                 paxLayout.visibility = View.VISIBLE
             } else {
